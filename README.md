@@ -1,2 +1,2 @@
 # practice
-mxnet 学习笔记
+mxnet 学习笔记1
